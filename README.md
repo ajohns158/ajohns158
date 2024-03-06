@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jola
 - 👀 I’m a data analyst interested in healthcare data and bioinformatics 
-- 🌱 I’m currently learning Power BI, SQL, and Python. I'm currently working on projects
+- 🌱 Currently learning Power BI, SQL, and Python. I'm currently working on projects
       to develop and display my skills. 
-- 💞️ I’m looking to collaborate with anyone willing to trade skills and insights on how to approach
+- 💞️ Looking to collaborate with anyone willing to trade skills and insights on how to approach
     new data.
 - ⚡ Fun fact: Outside of data analytics I  enjoy music and art. I've played the violin for 8 years
       and taught myself the guitar. 
